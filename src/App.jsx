@@ -1,4 +1,5 @@
 import About from './components/About'
+import Contactme from './components/Contactme'
 import Experinces from './components/Experiences'
 import Home from './components/Home'
 import NavBar from './components/NavBar'
@@ -15,6 +16,7 @@ function App() {
       <About/>
       <Portfolio/>
       <Experinces/>
+      <Contactme/>
 
       <SocialLink/>
     </>
